@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/velocity
 excerpt: 'Velocity Measurement in Single-Pixel Imaging using F-P Etalon'
 date: 2022-06-10
-venue: ''
+venue: 'Tsinghua University'
 paperurl: ''
 citation: 'Bai, Y.-M. Velocity Measurement in Single-Pixel Imaging using F-P Etalon. (in Chinese) Undergraduate Graduation Thesis, Tsinghua University, Beijing, China. Jun 10th, 2022.'
 
